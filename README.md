@@ -1,2 +1,2 @@
 # FirstGit
-new reposetary
+addinng
